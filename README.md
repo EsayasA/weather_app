@@ -45,6 +45,10 @@ was error and we tried to solve it.that was very challenging until we got source
 
 
 <p center>Our deployde website Screenshoot images</p>
-<img width="926" alt="image" src="https://github.com/EsayasA/weather_app/assets/123552892/7377739b-7a25-46b7-a7fb-dacce46da96b">
-"C:\Users\elitebook\Desktop\Weather.mp4"
+<img width="926" alt="image" src="https://github.com/EsayasA/weather_app/assets/12355289
+
+https://github.com/EsayasA/weather_app/assets/123552892/7b0bad73-55f5-46e8-a521-435920165c86
+
+2/7377739b-7a25-46b7-a7fb-dacce46da96b">
+
 
