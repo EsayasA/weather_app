@@ -45,7 +45,8 @@ was error and we tried to solve it.that was very challenging until we got source
 
 
 <p center>Our deployde website Screenshoot images</p>
-<img width="926" alt="image" src="https://github.com/EsayasA/weather_app/assets/12355289>
+<img width="927" alt="Screenshot 2024-04-15 165534" src="https://github.com/EsayasA/weather_app/assets/123552892/a4729452-0f80-47d9-a985-df5286afada4">
+
 
 
 
