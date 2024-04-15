@@ -13,7 +13,7 @@ https://github.com/RahwaLegesse/Blog
 When I was At compus almost all my Friends ware software Engineering students.<br>
 so when they talk about their projects I was wonder how is this possible.<br>
 
-![images](https://github.com/EsayasA/weather_app/assets/123552892/1979171c-4b66-4ca1-b014-fdb137090ad2)<br>
+<p center>![images](https://github.com/EsayasA/weather_app/assets/123552892/1979171c-4b66-4ca1-b014-fdb137090ad2)</p><br>
 But at that time I was on another department and I have not enough time to study both the departments at the same time.<br>
 so I decide to finish the department I was started then I was planning to study software Engineering.<br>
 I was watching them working a lot of project but I was shock the project they were talking about the weather application.<br>
