@@ -10,14 +10,15 @@ https://github.com/RahwaLegesse/Blog
 <img width="300" alt="image" src="https://github.com/EsayasA/weather_app/assets/123552892/4db0272c-2fbc-4155-b29d-4587c2b381b6"><br>
 
 ## our inspiration with this project
-When I was At compus almost all my Friends ware software Engineering students.
-so when they talk about their projects I was wonder how is this possible.
-But at that time I was on another department and I have not enough time to study both the departments at the same time.<br>
+When I was At compus almost all my Friends ware software Engineering students.<br>
+so when they talk about their projects I was wonder how is this possible.<br>
+
 ![images](https://github.com/EsayasA/weather_app/assets/123552892/1979171c-4b66-4ca1-b014-fdb137090ad2)<br>
-so I decide to finish the department I was started then I was planning to study software Engineering.
-I was watching them working a lot of project but I was shock the project they were talking about the weather application.
-it riases a lot of questions about the weather application.
-like how is the accourate data comes from, how it works for all the cities of the world,
+But at that time I was on another department and I have not enough time to study both the departments at the same time.<br>
+so I decide to finish the department I was started then I was planning to study software Engineering.<br>
+I was watching them working a lot of project but I was shock the project they were talking about the weather application.<br>
+it riases a lot of questions about the weather application.<br>
+like how is the accourate data comes from, how it works for all the cities of the world,<br>
 how do I know the weathers of the cities and other lot of questions.<br>
 **so at that time I decide if I start learnig software Engineering weather application will be my first project.**
 
