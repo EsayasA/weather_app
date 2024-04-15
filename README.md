@@ -1,1 +1,3 @@
-this is all about weather app
+## WEATHER APP
+https://rahwalegesse.github.io/landscape/ 
+https://esayasa.github.io/weather_app/
