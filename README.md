@@ -28,7 +28,7 @@ how do I know the weathers of the cities and other lot of questions.<br>
  
  <img width="345" alt="Screenshot 2024-04-04 142857" src="https://github.com/EsayasA/weather_app/assets/123552892/8fc319e6-6cbd-454b-8b3d-1918da9719e0"><br>
 
- we decide to go fetching of data from ApI sources like Api open weathermap.
+ we decide to go fetching of data from ApI sources like Api open weathermap.<br>
 then we enter to the website of Api weathermap and we create Account first <br>
 and verify our email.Then we create key value after that we go to the ApI and<br> 
 we select the Current Weather Data API DOC.After we enter to that page<br>
@@ -47,8 +47,6 @@ was error and we tried to solve it.that was very challenging until we got source
 <p center>Our deployde website Screenshoot images</p>
 <img width="926" alt="image" src="https://github.com/EsayasA/weather_app/assets/12355289
 
-https://github.com/EsayasA/weather_app/assets/123552892/7b0bad73-55f5-46e8-a521-435920165c86
 
-2/7377739b-7a25-46b7-a7fb-dacce46da96b">
 
 
