@@ -37,7 +37,7 @@ But we watch a lot of videos with the page of Api call with city name. so this w
 of our first technical challenge.But we continue using with longitude and latitude of the<br>
 city to get the data of the cities temperature, pressure,speed, humidty and others using <br>
 the images of the above lists features.<br>
-<img width="338" alt="Screenshot 2024-04-04 144432" src="https://github.com/EsayasA/weather_app/assets/123552892/d24c8d77-9948-4b5f-b3b8-8e796b5f1992">
+<img width="338" alt="Screenshot 2024-04-04 144432" src="https://github.com/EsayasA/weather_app/assets/123552892/d24c8d77-9948-4b5f-b3b8-8e796b5f1992"><br>
 So we copy the Api call and the keyvalue and we toke these values to the browser.<br>
 We never realized thatit takes about 15 minute to fetch API data. We thought that <br>
 was error and we tried to solve it.that was very challenging until we got sources from YouTube.<br>
@@ -46,4 +46,5 @@ was error and we tried to solve it.that was very challenging until we got source
 
 <p center>Our deployde website Screenshoot images</p>
 <img width="926" alt="image" src="https://github.com/EsayasA/weather_app/assets/123552892/7377739b-7a25-46b7-a7fb-dacce46da96b">
+"C:\Users\elitebook\Desktop\Weather.mp4"
 
