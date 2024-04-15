@@ -51,6 +51,12 @@ was error and we tried to solve it.that was very challenging until we got source
 
 https://github.com/EsayasA/weather_app/assets/123552892/0b8b5357-5e97-4477-9e87-783a272648be
 
+##    we use the following Technologies for our portofilo project**
+ **- For the Frontend we chose to use HTML,CSS and JavaScript<br>**
+ **- For the backend part we use Javascript and API<br>**
+ **- we use user Interface(UI) and user Experience(UX)<br>**
+ **- after we finish working the project we will use Tester**
+
 
 
 
